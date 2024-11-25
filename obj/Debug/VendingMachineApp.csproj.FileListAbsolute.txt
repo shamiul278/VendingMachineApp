@@ -1,0 +1,10 @@
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\obj\Debug\VendingMachineApp.csproj.AssemblyReference.cache
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\obj\Debug\VendingMachineApp.Properties.Resources.resources
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\obj\Debug\VendingMachineApp.csproj.GenerateResource.cache
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\obj\Debug\VendingMachineApp.csproj.CoreCompileInputs.cache
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\bin\Debug\VendingMachineApp.exe.config
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\bin\Debug\VendingMachineApp.exe
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\bin\Debug\VendingMachineApp.pdb
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\obj\Debug\VendingMachineApp.exe
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\obj\Debug\VendingMachineApp.pdb
+C:\Users\Shamiul Islam\Desktop\VendingMachineApp\obj\Debug\VendingMachineApp.VendingMachineapp.resources
